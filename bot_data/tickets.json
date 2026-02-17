@@ -1,0 +1,18 @@
+{
+    "1473323064799264973": {
+        "user_id": 1451504583854653522,
+        "purpose": "Report a User",
+        "created_at": "2026-02-17T14:19:50.970391",
+        "status": "closed",
+        "feedback": "6/7",
+        "closed_at": "2026-02-17T14:22:10.673321"
+    },
+    "1473324143356412179": {
+        "user_id": 1451504583854653522,
+        "purpose": "Partnership Request",
+        "created_at": "2026-02-17T14:24:07.991660",
+        "status": "closed",
+        "feedback": "very nice",
+        "closed_at": "2026-02-17T14:24:33.283459"
+    }
+}

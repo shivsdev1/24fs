@@ -1,0 +1,26 @@
+{
+    "xp_per_message_min": 50,
+    "xp_per_message_max": 95,
+    "xp_per_voice_minute": 0.5,
+    "xp_cooldown_ms": 1400,
+    "level_curve": "easy_linear",
+    "level_up_channel": null,
+    "level_up_mode": "only-role-rewards",
+    "blacklisted_channels": [],
+    "blacklisted_roles": [],
+    "level_rewards": {
+        "1": "Economy",
+        "3": "Premium economy",
+        "5": "Business class",
+        "10": "First Class"
+    },
+    "xp_multiplier_roles": {},
+    "xp_multiplier_channels": {
+        "chatroom": 2
+    },
+    "only_keep_highest_role": true,
+    "reset_level_on_leave": false,
+    "welcome_channel": null,
+    "ticket_category": 1473323062983393413,
+    "ticket_log_channel": null
+}
